@@ -1,0 +1,10 @@
+const String firstRoute = "firstRoute";
+const String homeRoute = "home";
+const String aboutRoute = "about";
+const String productsRoute = "products";
+const String washListRoute = "washList";
+const String cartRoute = "cart";
+const String settingsRoute = "settings";
+const String loginRoute = "login";
+const String signupRoute = "signup";
+const String splashRoute = "splash";
